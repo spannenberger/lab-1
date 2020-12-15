@@ -20,7 +20,7 @@ namespace Library
         {
             get
             {
-                return P1.X - P0.Y;
+                return P1.Y - P0.Y;
             }
         }
 
